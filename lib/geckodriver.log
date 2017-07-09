@@ -1,0 +1,198 @@
+1499555909546	geckodriver	INFO	Listening on 127.0.0.1:51728
+1499555911625	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.yk2gCAaEMNNO
+1499555911625	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499555911641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51734
+1499556203929	geckodriver	INFO	Listening on 127.0.0.1:51907
+1499556205973	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.36wMT0aJKHtc
+1499556205973	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556205973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51915
+[GPU 10004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499556207929	Marionette	INFO	Listening on port 51915
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 10004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499556396464	geckodriver	INFO	Listening on 127.0.0.1:52242
+1499556398518	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.avvzgb4QwJ9m
+1499556398526	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556398534	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52252
+1499556400513	Marionette	INFO	Listening on port 52252
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 6524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4708] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4708] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499556425137	geckodriver	INFO	Listening on 127.0.0.1:52319
+1499556427169	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.XaONPLrOKYtp
+1499556427175	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556427183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52327
+1499556429198	Marionette	INFO	Listening on port 52327
+[GPU 3316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 3316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499556491984	geckodriver	INFO	Listening on 127.0.0.1:52471
+1499556494011	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.UUVlXJNL36WT
+1499556494017	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556494024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52479
+1499556495911	Marionette	INFO	Listening on port 52479
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 9412] WARNING: pipe error: 109: file c:/builds/moz2_sla1499556506997	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.B0CEXIbA4hP2
+1499556507006	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556507016	geckodriver::marionette	INF
+###!!! [Child][MessageChannel::SendAndWait] [GPU 7120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499556509064	Marionette	INFO	Listening on port 52531
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 7120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iles (x86)\Mozilla Firefox\firefox.exe
+1499556647664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52784
+1499556649854	Marionette	INFO	Listening on port 52784
+[GPU 4732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 4732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+port 52880
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 5640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error[Child 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499556910901	geckodriver	INFO	Listening on 127.0.0.1:53252
+1499556912959	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.L2BFl3eFri79
+1499556912966	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556912975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53262
+1499556914819	Marionette	INFO	Listening on port 53262
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[Child 3792] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+es (x86)\Mozilla Firefox\firefox.exe
+1499556955675	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53364
+1499556957624	Marionette	INFO	Listening on port 53364
+[GPU 732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499556978748	geckodriver	INFO	Listening on 127.0.0.1:53440
+1499556980793	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.LjVoDr0R1gk4
+1499556980799	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499556980807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53448
+1499556982708	Marionette	INFO	Listening on port 53448
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 8796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ on port 53574
+[GPU 6052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 6052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iles (x86)\Mozilla Firefox\firefox.exe
+1499557132494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53732
+1499557134583	Marionette	INFO	Listening on port 53732
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 8976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499557247112	geckodriver	INFO	Listening on 127.0.0.1:53962
+1499557249173	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.bxsosOG4OIVG
+1499557249179	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499557249187	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53970
+1499557251121	Marionette	INFO	Listening on port 53970
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 3988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iles (x86)\Mozilla Firefox\firefox.exe
+1499557333684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54123
+1499557336014	Marionette	INFO	Listening on port 54123
+[GPU 2672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 2672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11284] WARNING: pipe error: 109: file c[GPU 6524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499557373558	Marionette	INFO	Listening on port 54216
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 6524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n port 54312
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 9712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iles (x86)\Mozilla Firefox\firefox.exe
+1499557473575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54431
+1499557475635	Marionette	INFO	Listening on port 54431
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 2888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Err[GPU 1300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499557747162	geckodriver	INFO	Listening on 127.0.0.1:55001
+1499557749205	mozprofile::profile	INFO	Using profile path C:\Users\jgaci\AppData\Local\Temp\rust_mozprofile.HcclYC6OQMLi
+1499557749213	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499557749220	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55009
+1499557751171	Marionette	INFO	Listening on port 55009
+1499557751251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 6460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-0000000000001499557911574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 9496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499557949880	Marionette	INFO	Listening on port 55398
+1499557950836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
