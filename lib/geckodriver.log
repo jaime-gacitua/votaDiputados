@@ -202,3 +202,518 @@ Full stack:
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1499573009358	geckodriver	INFO	Listening on 127.0.0.1:60178
+1499573011422	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GPU 2504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499573013564	Marionette	INFO	Listening on port 60184
+1499573014577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 2504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499573083161	geckodriver	INFO	Listening on 127.0.0.1:60227
+1499573085197	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499573087437	Marionette	INFO	Listening on port 60233
+1499573088343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 4152] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499573140045	geckodriver	INFO	Listening on 127.0.0.1:60275
+1499573142148	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GPU 8332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499573144042	Marionette	INFO	Listening on port 60282
+1499573144193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[GPU 8332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499772017334	geckodriver	INFO	Listening on 127.0.0.1:56702
+1499772019372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499772022282	Marionette	INFO	Listening on port 56708
+1499772022539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 9932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9774115829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 6124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1499776991572	geckodriver	INFO	Listening on 127.0.0.1:60436
+1499776993615	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499776995555	Marionette	INFO	Listening on port 60442
+[GPU 9968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1499776995653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 6108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1500128351173	geckodriver	INFO	Listening on 127.0.0.1:63976
+1500128353268	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500128355705	Marionette	INFO	Listening on port 63983
+[GPU 9776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1500128356444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 300: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+[GPU 9776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1500130112431	geckodriver::marionette	ERROR	Failed to kill browser process
+1500130435563	geckodriver	INFO	Listening on 127.0.0.1:64680
+1500130437730	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500130752554	geckodriver	INFO	Listening on 127.0.0.1:64806
+1500130754715	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500130756724	Marionette	INFO	Listening on port 64812
+1500130756851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500130780790	geckodriver	INFO	Listening on 127.0.0.1:64854
+1500130782901	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500130785462	Marionette	INFO	Listening on port 64860
+1500130786033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500134852197	Marionette	INFO	Ceased listening
+1500134877393	geckodriver	INFO	Listening on 127.0.0.1:65167
+1500134879454	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500134881938	Marionette	INFO	Listening on port 65173
+1500134882627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500136894019	Marionette	INFO	Ceased listening
+1500136898125	geckodriver	INFO	Listening on 127.0.0.1:65402
+1500136900190	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500136902571	Marionette	INFO	Listening on port 65408
+1500136903346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500139262563	Marionette	INFO	Ceased listening
+1500139279135	geckodriver	INFO	Listening on 127.0.0.1:49176
+1500139281194	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500139283421	Marionette	INFO	Listening on port 49182
+1500139284346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500140052925	Marionette	INFO	Ceased listening
+1500140081608	geckodriver	INFO	Listening on 127.0.0.1:49395
+1500140083654	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://app/modules/BrowserUsageTelemetry.jsm, line 303: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "An existing connection was forcibly closed by the remote host." } }', src\libcore\result.rs:859
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500140962905	Marionette	INFO	Ceased listening
+1500140975814	geckodriver::marionette	ERROR	Failed to kill browser process
+1500141008992	geckodriver	INFO	Listening on 127.0.0.1:50543
+1500141011038	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500141013193	Marionette	INFO	Listening on port 50551
+1500141014195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500141851795	Marionette	INFO	Ceased listening
+1500141862836	geckodriver	INFO	Listening on 127.0.0.1:51078
+1500141864867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500141867037	Marionette	INFO	Listening on port 51084
+1500141868000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500142723666	Marionette	INFO	Ceased listening
+1500142734942	geckodriver	INFO	Listening on 127.0.0.1:51221
+1500142736981	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500142739029	Marionette	INFO	Listening on port 51227
+1500142740126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500143780412	Marionette	INFO	Ceased listening
+1500144043141	geckodriver	INFO	Listening on 127.0.0.1:51549
+1500144045190	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500144047208	Marionette	INFO	Listening on port 51555
+1500144048318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500144886701	Marionette	INFO	Ceased listening
+1500144891905	geckodriver	INFO	Listening on 127.0.0.1:52206
+1500144893961	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500144896262	Marionette	INFO	Listening on port 52212
+1500144897115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500145288478	Marionette	INFO	Ceased listening
+1500145325007	geckodriver::marionette	ERROR	Failed to kill browser process
+1500145612085	geckodriver	INFO	Listening on 127.0.0.1:52612
+1500145614121	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500145616152	Marionette	INFO	Listening on port 52618
+1500145616250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500148469422	Marionette	INFO	Ceased listening
+1500148474761	geckodriver	INFO	Listening on 127.0.0.1:52773
+1500148476824	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500148478830	Marionette	INFO	Listening on port 52779
+1500148478973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+1500159842382	Marionette	INFO	Ceased listening
+1500159913313	geckodriver	INFO	Listening on 127.0.0.1:53662
+1500159915368	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500159918591	Marionette	INFO	Listening on port 53668
+1500159919061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.camara.cl/common/scripts/main2.js, line 1: SyntaxError: expected expression, got '<'
